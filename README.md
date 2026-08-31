@@ -1,7 +1,7 @@
 # UI-UX-Experiment 2: Basic Mobile and Web Layout Design
 
 **Course:** UI and UX Design  
-**Student:** Yuvan Sundar S
+**Student:** Yuvan Sundar S     
 **Experiment:** Design a Basic Mobile and Web Layout for an Existing Case Study
 
 ---
