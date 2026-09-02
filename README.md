@@ -113,8 +113,3 @@ To design a basic mobile and web layout for an existing case study by applying U
 <img width="141" height="139" alt="image" src="https://github.com/user-attachments/assets/59dcf0af-a3a8-45d8-9ac9-b89c03fe6891" />
 
 The Basic Mobile and Web layout is completed and verified.
-
----
-
-### 📂 Submission Details
-* **GitHub Repository:** [https://github.com/loganathan-uiux/UI-UX-Experiment2/YOUR-REPO-NAME](https://github.com/loganathan-uiux/UI-UX-Experiment2/)
